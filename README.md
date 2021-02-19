@@ -4,4 +4,4 @@ I am sout_Nantang(sout233)
 ---
 [![GitHub sout233](https://img.shields.io/github/followers/sout233?label=follow&style=social)](https://github.com/sout233)
 ---
-![sout233's Github Stats](https://github-readme-stats.vercel.app/api?username=sout233&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=FF69B4,00BFFF,6495ED)
+![sout233's Github Stats](https://github-readme-stats.vercel.app/api?username=sout233&show_icons=true&title_color=fff&icon_color=F8F8FF&text_color=F8F8FF&bg_color=FF69B4,FF69B4,6495ED)
