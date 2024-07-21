@@ -29,6 +29,7 @@ I like coding and music production.
 [![VSCode](https://img.shields.io/badge/VSCode-2F80ED?logo=vscodium&logoColor=fff&style=flat-square)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat-square)](#)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white&style=flat-square)](#)
+[![Reaper](https://img.shields.io/badge/Reaper-brown.svg?logo=reaper&style=flat-square)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)](#)
 [![Godot Engine](https://img.shields.io/badge/Godot-lightblue.svg?logo=godot-engine&style=flat-square)](#)
 
