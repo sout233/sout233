@@ -3,7 +3,7 @@ I am sout_Nantang(sout233)
 
 I like coding and music production.
 
-Working with desktop software, web dev and DSP.
+Trying desktop software, web dev and DSP.
 
 [![GitHub sout233](https://img.shields.io/github/followers/sout233?label=follow&style=social)](https://github.com/sout233)
 
